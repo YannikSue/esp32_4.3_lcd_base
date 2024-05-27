@@ -21,7 +21,7 @@ You should now be able to compile and upload the sketch.
 
 # Further Tips
 
-To design a fast and beatufil UI you can use SquareLine. 
+To design a fast and beautiful UI you can use SquareLine. 
 You'll have to set the extension in Squareline to Arduino. 
 After you designed your UI, you can export them. If you set the export path to your Arduino IDE Library path, you can use the ui directly inside your sketch.
 
